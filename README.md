@@ -1,2 +1,2 @@
 # pdf-splitter
-Program to split a pdf into specific range/s
+## A script to split PDF into custom PDF range/s
