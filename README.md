@@ -29,8 +29,11 @@ This is a Python script that allows you to split a PDF file into multiple smalle
 Here's an example usage of the script:
 
 `Please enter file path with extension: example.pdf`
+
 `Please enter split PDF name without extension: split`
+
 `Please enter start page to split from: 3`
+
 `Please enter the end page to stop the split at: 5`
 
 
